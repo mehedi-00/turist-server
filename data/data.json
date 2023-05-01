@@ -1,0 +1,68 @@
+
+    
+     [
+        {
+            "id": 1,
+            "name": "Cox’s Bazar",
+            "nameSlug": "coxs-bazar",
+            "description": "Experience the beauty of the world’s longest natural sandy sea beach in Chittagong Division, Bangladesh, with breathtaking views of the Bay of Bengal.",
+            "location": "Cox’s Bazar",
+            "imageUrl": "https://images.unsplash.com/photo-1608958435020-e8a7109ba809?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80"
+          },
+          {
+            "id": 2,
+            "name": "Sundarbans",
+            "nameSlug": "sundarbans",
+            "description": "Explore the largest mangrove forest in the world, home to the Bengal tiger, in Khulna Division, Bangladesh, and witness its unique biodiversity and stunning natural beauty.",
+            "location": "Sundarbans",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRboYNIhZ-hXDVagJwJ4La5dAVzmj59pvEhmlbaaBUeTw&s"
+          },
+          {
+            "id": 3,
+            "name": "Srimangal",
+            "nameSlug": "srimangal",
+            "description": "Immerse yourself in the scenic beauty of Srimangal in Sylhet Division, Bangladesh, known for its lush tea gardens and rich local culture, and enjoy a cup of delicious tea.",
+            "location": "Srimangal",
+            "imageUrl": "https://images.squarespace-cdn.com/content/v1/6102abeba9fd55174a180768/557b2833-24a8-4bb7-9409-771430c82a2f/beautiful+sreemangal"
+          },
+          {
+            "id": 4,
+            "name": "Rangamati",
+            "nameSlug": "rangamati",
+            "description": "Discover the beauty of Rangamati in Chittagong Hill Tracts, Bangladesh, with its breathtaking hills, lakes, and waterfalls, and experience the unique culture of the indigenous communities.",
+            "location": "Rangamati",
+            "imageUrl": "https://bangladoot.se/wp-content/uploads/2014/01/rangamati_bridge-300x177.jpg"
+          },
+          {
+            "id": 5,
+            "name": "Paharpur",
+            "nameSlug": "paharpur",
+            "description": "Step back in time and explore the ancient ruins of Paharpur, a UNESCO World Heritage Site in Rajshahi Division, Bangladesh, and discover the history and culture of the region.",
+            "location": "Paharpur",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG9jJNoTbex3Y9LUJt5qOczUyYtwuqNvU-UMNHErfh&s"
+          },
+          {
+            "id": 6,
+            "name": "Sajek Valley",
+            "nameSlug": "sajek-valley",
+            "description": "Escape to the serene and picturesque Sajek Valley in Rangamati District, Bangladesh, and enjoy the panoramic views of the mountains, clouds, and forests, and experience the local way of life.",
+            "location": "Sajek Valley",
+            "imageUrl": "https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2020/09/27/sajek_valley_d.jpg"
+          },
+          {
+            "id": 7,
+            "name": "Lalbagh Fort",
+            "nameSlug": "lalbagh-fort",
+            "description": "Marvel at the magnificent Lalbagh Fort in Dhaka, Bangladesh, built in the 17th century by the Mughal Empire, and explore its beautiful gardens, tombs, and mosque.",
+            "location": "Lalbagh Fort",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV01w9tX09-hMX_mS0RCftckeT8MwqSi9qRS05JXKm-gtqCe_Lm_sGO7FVM-ZOJtK3Z2w&usqp=CAU"
+          },
+      {
+        "id": 8,
+        "name": "Kuakata",
+        "nameSlug": "kuakata",
+        "description": "Experience the beauty of Kuakata, a seaside town in Patuakhali District, Bangladesh, with its stunning panoramic views of the Bay of Bengal and its unique Buddhist and Hindu temples.",
+        "location": "Kuakata",
+        "imageUrl": "https://th-thumbnailer.cdn-si-edu.com/TyEt_d-VugT_WidDPJ2qLeVzArA=/fit-in/1072x0/https://tf-cmsv2-photocontest-smithsonianmag-prod-approved.s3.amazonaws.com/4ba59fbe14c9e7263f8a302d7cdaa5ec5bbd8f88.jpg"
+      }]
+  
